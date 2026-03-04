@@ -1,10 +1,24 @@
-# Introdução e Primeiros Comandos
+# 📘 Introdução e Primeiros Comandos
 
-Esta pasta contém exercícios iniciais em Python abordando:
+Esta pasta faz parte do repositório **Python-fundamentos**  
+e contém exercícios iniciais voltados para a base da linguagem Python.
 
-- Primeiro programa (Hello World)
-- Uso da função print()
-- Entrada de dados com input()
-- Primeiras manipulações simples
+---
 
-📌 Parte do módulo de Fundamentos da Linguagem.
+## 🎯 Objetivo
+
+Construir uma base sólida em:
+
+- Sintaxe básica
+- Uso da função `print()`
+- Entrada de dados com `input()`
+- Conversão de tipos (`int`, `float`, `str`)
+- Operadores aritméticos
+- Ordem de precedência
+- Cálculos matemáticos simples
+
+---
+
+## 📂 Estrutura dos Exercícios
+
+Os arquivos seguem o padrão:
