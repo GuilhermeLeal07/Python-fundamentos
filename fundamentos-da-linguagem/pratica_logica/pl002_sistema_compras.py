@@ -3,9 +3,9 @@ Sistema de Compras
 Descontos, cupons e forma de pagamento
 """
 
-# =============================
-# ENTRADA DO VALOR DA COMPRA
-# =============================
+# =================================================
+# ENTRADA DO VALOR DA COMPRA E FORMA DE PAGAMENTO
+# =================================================
 valor = float(input('Digite o valor da compra: R$'))
 
 print('\nEscolha a forma de pagamento:')
