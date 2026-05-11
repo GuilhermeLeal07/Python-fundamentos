@@ -65,7 +65,7 @@ def dividir(a, b):
 
 Crie outro arquivo chamado principal.py
 
-# principal.py
+#  principal.py
 
 import operacoes  # importa o módulo que criamos
 
