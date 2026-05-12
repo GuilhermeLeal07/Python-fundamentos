@@ -10,7 +10,7 @@ Em resumo:
 
 🔹 Estrutura básica de uma função
 def nome_da_funcao(parametros):
-    # bloco de código
+    #  bloco de código
     return valor
 
 Exemplo:
