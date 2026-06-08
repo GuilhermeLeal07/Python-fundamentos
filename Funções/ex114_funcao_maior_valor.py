@@ -1,5 +1,5 @@
 """
-Ex115 - Função maior()
+Ex114 - Função maior()
 
 Neste exercício, criamos uma função capaz de receber uma quantidade variável de números inteiros e identificar o maior valor informado.
 
